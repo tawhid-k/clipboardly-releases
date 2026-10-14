@@ -5,5 +5,16 @@
     <link>https://tawhid-k.github.io/clipboardly-releases/appcast.xml</link>
     <description>Clipboardly releases</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Wed, 14 Oct 2026 05:09:50 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/tawhid-k/clipboardly-releases/releases/download/v1.0.0/Clipboardly-v1.0.0.dmg"
+        sparkle:edSignature="Z7sjuOPDaMtLM0gmN7C45LIC9cYyIKJa4MDSaSM+tMlTCootTlCTnlXmYTZ3AJWyM5AZu5Gy02MaI8xhuWIMAQ=="
+        length="26175379"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
